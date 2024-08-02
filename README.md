@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/abhra92/abhra92/blob/main/MY%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Abhra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
